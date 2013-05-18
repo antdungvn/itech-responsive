@@ -1,0 +1,46 @@
+# magento db config #
+####################
+app/etc/local.xml
+
+# magento folder #
+#####################
+#media/catalog/*
+#media/product/*
+#media/wysiwyg/*
+#media/favicon/*
+#media/magazento_megamenu/*
+#media/tagimage/*
+#media/*
+var/cache/*
+var/full_page_cache/*
+var/locks/*
+var/session/*
+var/tmp/*
+var/report/*
+var/log/*
+var/import/*
+var/export/*
+var/ftp/*
+var/backups/*
+var/urapidflow/*
+var/connect/*
+downloader/*
+var/*
+.htaccess
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+.bash_history
+.ssh/*
+.viminfo
+
+# eclipse file #
+##############
+.buildpath
+.project
+.setting/*
+
